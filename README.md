@@ -14,3 +14,4 @@ In order for everyone to have the best experience possible, we have a few guidel
 - When creating an issue, please make sure you're using the [issue template](.github/ISSUE_TEMPLATE/BUG_REPORT.md).  
 - When submitting a pull request, please make sure you're using the [pull request template](.github/PULL_REQUEST_TEMPLATE.md).  
 - When contributing, please make sure you check out the [contribution guidelines](.github/CONTRIBUTING.md).  
+ 
